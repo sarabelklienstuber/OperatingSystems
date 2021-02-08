@@ -3,3 +3,5 @@ Memory maagement keeps track of all of the locations of memory.
 This helps data become more secure and helps the RAM management. 
 
 The security portion of an operating system refers to resources like the CPU, memory, disk, and programs. These resources should be secure in the event of someone who isn't authorized to have access, or viruses, etc. This is very important to secure applications. 
+
+The processor managment is important to the operating system because this keeps track and status of the process and processor. It is important to manage the CPU in order for programs to execute correctly and be able to function properly. This is needed in order to make sure that the application or program recieves enough of the processors time to function.  
