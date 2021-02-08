@@ -1,3 +1,5 @@
 Memory managment is how an operating system functions while handling a systems primary memory.
 Memory maagement keeps track of all of the locations of memory. 
 This helps data become more secure and helps the RAM management. 
+
+The security portion of an operating system refers to resources like the CPU, memory, disk, and programs. These resources should be secure in the event of someone who isn't authorized to have access, or viruses, etc. This is very important to secure applications. 
