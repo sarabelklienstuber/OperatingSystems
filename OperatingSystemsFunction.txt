@@ -1,0 +1,3 @@
+Memory managment is how an operating system functions while handling a systems primary memory.
+Memory maagement keeps track of all of the locations of memory. 
+This helps data become more secure and helps the RAM management. 
